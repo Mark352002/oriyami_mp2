@@ -1,4 +1,3 @@
-import React from 'react'
 import NavBar from './NavBar'
 import ABOUT from "./images/Highlight/imgabout.png"
 import Footer from './Footer'

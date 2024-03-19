@@ -2,7 +2,6 @@ import { FC } from 'react';
 import NavBar from './components/NavBar';
 import "bootstrap/dist/css/bootstrap.min.css"
 import "bootstrap/dist/js/bootstrap.bundle.min.js"
-import {Link } from 'react-router-dom';
 import { User } from './usersdata';
 import { Container, Row } from 'react-bootstrap';
 import Rooms from './components/Rooms';
@@ -21,9 +20,6 @@ interface HomeProps {
   
 }
   
-function refreshPage() {
-  window.location.reload();
-}
 const Home:FC<HomeProps>  = ({ currentUser }) =>{
 
   return (

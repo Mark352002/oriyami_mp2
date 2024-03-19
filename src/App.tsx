@@ -11,7 +11,6 @@ import { User } from './assets/components/usersdata';
 import Profile from './assets/components/components/Profile';
 import Cardroom from './assets/components/components/Cardroom';
 import Reservation from './assets/components/components/Reservation';
-import Feedback from 'react-bootstrap/esm/Feedback';
 import Contact_us from './assets/components/components/Contact_us';
 import About from './assets/components/components/About';
 import Faq  from './assets/components/components/Faq';

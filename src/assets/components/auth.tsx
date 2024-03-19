@@ -5,8 +5,6 @@ import Gallery from './components/Gallery';
 import NavBar from './components/NavBar';
 import { User } from './usersdata';
 import Profile from './components/Profile';
-import Feedback from 'react-bootstrap/esm/Feedback';
-import Carousel from './components/Carousel';
 import Contact_us from './components/Contact_us';
 
 

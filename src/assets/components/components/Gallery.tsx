@@ -1,4 +1,3 @@
-import React from 'react';
 import NavBar from './NavBar';
 import "./Gallery.css";
 import image1 from "./images/Gallery/1.jpg";

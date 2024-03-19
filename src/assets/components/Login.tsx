@@ -3,7 +3,6 @@ import userdata from './usersdata';
 import { Link } from 'react-router-dom';
 import backgroundImage from './components/images/Carousel/bg.jpg'; // Import the image file
 import logoicon from "./components/images/logo/logo.png"
-import Rooms from './components/Rooms';
 
 interface LoginProps {
   onLogin: (email: string, password: string) => void; // Update onLogin prop to accept email and password parameters

@@ -1,5 +1,3 @@
-import { useEffect } from 'react';
-import Swiper from 'swiper';
 import 'swiper/swiper-bundle.css';
 import carousel1 from './images/Carousel/carousel1.jpg';
 import carousel2 from './images/Carousel/carousel2.jpg';

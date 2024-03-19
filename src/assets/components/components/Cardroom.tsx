@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Link, useParams } from "react-router-dom";
+import {  useParams } from "react-router-dom";
 import RoomData from "../RoomData";
 import QrData, { QrDataItem } from "../QrData";
 import NavBar from "./NavBar";

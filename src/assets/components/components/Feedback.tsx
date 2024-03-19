@@ -3,7 +3,6 @@ import Modal from 'react-bootstrap/Modal';
 import Button from 'react-bootstrap/Button';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
-
 import logoicon from "./images/logo/logo-icon.png";
 import logofeed from "./images/logo/feedback.png";
 import { User } from '../usersdata';

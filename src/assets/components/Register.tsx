@@ -1,6 +1,5 @@
-import React, { useState, ChangeEvent, FormEvent } from "react";
+import React, { useState, FormEvent } from "react";
 import "./Register.css";
-import userdata from './usersdata';
 import backgroundImage from './components/images/Carousel/bg.jpg'; // Import the image file
 import logoicon from "./components/images/logo/logo.png"
 import { Link } from "react-router-dom";

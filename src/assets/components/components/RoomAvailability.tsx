@@ -24,7 +24,7 @@ const RoomAvailability = () => {
     setFilteredRooms(filtered);
   };
 
-  const [roomList]= useState<Room[]>(RoomData); // Explicitly define the type as Room[]
+  const []= useState<Room[]>(RoomData); // Explicitly define the type as Room[]
 
   return (
     <div className="col-lg-12 shadow bg-white p-4 rounded container availability-form">
